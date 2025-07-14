@@ -1,3 +1,99 @@
+# Freelance Tax & Expense Advisor
+
+> “Save on taxes and avoid mistakes. Get your tax questions answered on the spot.”
+
+---
+
+## 📌 Overview
+
+**Freelance Tax & Expense Advisor** is a ChatGPT-powered assistant designed to help freelancers and sole proprietors solve common questions related to tax filing, expense tracking, and business paperwork.
+
+It’s perfect for those who:
+
+- Feel unsure whether they should ask a tax professional
+- Struggle to decide which expenses are deductible
+- Wonder how to fill out documents like business registration forms
+
+This tool breaks down complex tax concepts into simple explanations and provides practical examples tailored for freelancers.
+
+---
+
+## ⚙️ Features
+
+### ✅ Basic Tax Filing Guidance
+
+- Differences between Blue and White tax filings in Japan
+- Explanation of required documents and filing processes
+- Information on where and when to submit forms
+
+### ✅ Expense Judgment Support
+
+- Examples of deductible and non-deductible expenses
+- Clarifications on gray areas and associated risks
+- Guidance on receipt management and memo-taking best practices
+
+### ✅ Bookkeeping and Journal Entry Guidance
+
+- Tips for using accounting software
+- Overview of bookkeeping types and record-keeping requirements
+- Practical examples of journal entries
+
+### ✅ Explanation of Various Filings
+
+- How to file a business opening notification
+- Steps for completing the Blue Tax Return application
+- Addresses and deadlines for submitting tax documents
+
+### ✅ Tax-Saving Tips
+
+- Small enterprise mutual aid plans
+- iDeCo (individual retirement savings)
+- Benefits of using a dedicated business bank account
+- Basics of tax-saving strategies
+
+### ✅ Templates and Checklists
+
+- Expense tracking templates (Excel-style tables)
+- Annual tax filing schedule
+- Tax return submission checklists
+
+---
+
+## 🎯 Target Users
+
+- Freelancers and sole proprietors filing taxes for the first time
+- Individuals managing their own bookkeeping without hiring an accountant
+- Remote workers, creators, engineers, and other independent professionals
+- Anyone who feels uncertain about tax-saving strategies or expense management
+
+---
+
+## 🛠 Technical Highlights
+
+- **Custom Prompt Engineering**
+  - Simplifies complex tax terms into beginner-friendly language
+  - Supports various output formats like examples, tables, and bullet lists
+
+- **Legal and Safety Considerations**
+  - Always displays a disclaimer that final decisions should be made by qualified professionals
+  - Notes potential legal changes depending on the tax year
+
+- **User Experience Focus**
+  - Clear, concise answers for user questions
+  - Flexible follow-up for deeper explanations as needed
+
+---
+
+## 💻 Usage Examples
+
+### Example User Question
+
+> Can I deduct the cost of a café used for a business meeting?
+
+### GPT’s Answer
+
+
+
 # フリーランス確定申告・経費アドバイザー / Freelance Tax & Expense Advisor
 
 「節税もミス防止も、確定申告の疑問をその場で解決。」
