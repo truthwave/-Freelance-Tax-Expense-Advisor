@@ -1,3 +1,7 @@
+<p>
+<img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー" src="https://github.com/user-attachments/assets/805bd074-16be-4946-975e-108b563ed0a3" />
+</p>
+
 # フリーランス確定申告・経費アドバイザー / Freelance Tax & Expense Advisor
 
 > 「節税もミス防止も、確定申告の疑問をその場で解決。」
