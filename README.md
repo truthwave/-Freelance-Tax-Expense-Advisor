@@ -167,3 +167,9 @@ MIT License
 ---
 
 > 「節税もミス防止も、確定申告の疑問をその場で解決。」
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
