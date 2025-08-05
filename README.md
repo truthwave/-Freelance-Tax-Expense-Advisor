@@ -1,6 +1,5 @@
 <p>
-
-<img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー (1)" src="https://github.com/user-attachments/assets/32dd12ac-cc08-4bc9-8ffe-57418739384c" />
+<img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー" src="https://github.com/user-attachments/assets/995d65e8-5c03-4eb8-b53c-56de2667d90a" />
 
 </p>
 
