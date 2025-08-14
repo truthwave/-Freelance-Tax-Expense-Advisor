@@ -157,3 +157,6 @@ MIT License
 
 **[ともプログラム便り](https://github.com/TomoProgrammingDayori)**  
 → ポートフォリオや他のAIツール開発も掲載中です。
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
