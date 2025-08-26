@@ -164,7 +164,7 @@ MIT License
 
 ## 🧑‍💻 作者 / Author
 
-**[ともプログラム便り](https://github.com/TomoProgrammingDayori)**  
+**[[ともAI便り](https://github.com/TomoAIDayori)**  
 → ポートフォリオや他のAIツール開発も掲載中です。
 
 ## お気軽にご連絡ください
