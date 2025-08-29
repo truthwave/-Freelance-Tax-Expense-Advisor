@@ -1,3 +1,8 @@
+<p align="center">
+<img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー" src="https://github.com/user-attachments/assets/42be2538-f9f6-4c31-a70b-3573ced6673a" />
+
+</p>
+
 # Freelance Tax & Expense Advisor
 
 > **“Save on taxes and avoid mistakes. Get your tax questions answered on the spot.”**
