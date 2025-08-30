@@ -9,6 +9,17 @@
 
 ---
 
+## 📸 **Experience Image**
+![デモ動画](https://github.com/TomoAIDayori/-Freelance-Tax-Expense-Advisor/blob/main/English/Demo%20Movie.gif)
+
+![青と白の納税申告比較](https://github.com/TomoAIDayori/-Freelance-Tax-Expense-Advisor/blob/main/English/blue-white-tax-filing-comparison.png)
+
+![経費例-カフェ-スマートフォン-服](https://github.com/TomoAIDayori/-Freelance-Tax-Expense-Advisor/blob/main/English/expense-examples-cafe-smartphone-clothes.png)
+
+![税務申告-GPT-QA](https://github.com/TomoAIDayori/-Freelance-Tax-Expense-Advisor/blob/main/English/tax-filing-gpt-qa.png)
+
+---
+
 ## 📌 Overview
 
 **Freelance Tax & Expense Advisor** is a ChatGPT-powered tool designed to help freelancers and sole proprietors navigate Japanese tax filing, expense tracking, and paperwork.
