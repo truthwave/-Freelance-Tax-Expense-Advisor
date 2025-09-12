@@ -161,11 +161,6 @@ What’s the difference between Blue and White tax filings in Japan?
 - Information is for reference only. Always consult professionals for final decisions.
 - Tax laws and rules change yearly.
 
----
-
-## 🌐 Demo
-
-[Try Freelance Tax & Expense Advisor on ChatGPT](https://chatgpt.com/g/g-686cb9ad9ea88191af82e42f50a42a00-huriransuque-ding-shen-gao-jing-fei-atohaisa)
 
 ---
 
