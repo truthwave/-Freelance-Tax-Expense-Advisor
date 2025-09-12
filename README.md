@@ -133,11 +133,7 @@
 - 提示する情報は参考であり、最終的な判断は各自の責任で行ってください  
 - 法令・制度は年度により変更される可能性があります
 
----
 
-## 🌐 デモリンク / Demo
-
-🔗 [ChatGPTで試す（フリーランス確定申告・経費アドバイザー）](https://chatgpt.com/g/g-686cb9ad9ea88191af82e42f50a42a00-huriransuque-ding-shen-gao-jing-fei-atohaisa)
 
 ---
 
