@@ -10,9 +10,9 @@
 ---
 
 ## プロジェクト概要
-[スライド資料はこちら](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/%E8%B3%87%E6%96%99/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%83%BB%E7%B5%8C%E8%B2%BB%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
+#### [スライド資料はこちら](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/%E8%B3%87%E6%96%99/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%83%BB%E7%B5%8C%E8%B2%BB%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
-[動画資料はこちら](https://youtu.be/1N7R9RuY7Vg)
+#### [動画資料はこちら](https://youtu.be/1N7R9RuY7Vg)
 
 ---
 
@@ -56,7 +56,7 @@
 ## 📸 **体験イメージ**
 ![デモ動画](https://github.com/TomoProgrammingDayori/-Freelance-Tax-Expense-Advisor/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-[スクリーンショットはこちら](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
+### [スクリーンショットはこちら](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
 ---
 
