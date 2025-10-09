@@ -3,13 +3,36 @@
 
 </p>
 
-# Freelance Tax & Expense Advisor
+# ✅ Freelance Tax Filing & Expense Advisor
 
-> **“Save on taxes and avoid mistakes. Get your tax questions answered on the spot.”**
+> Don't dread tax season.
+> Don't get bogged down by receipts.
+> Face the future head-on.
 
 ---
 
-## 📸 **Experience Image**
+## ✨ Experience
+
+A freelancer's greatest enemy isn't the work itself.
+It's “anxiety.”
+
+This assistant rephrases tax jargon into plain language,
+unraveling your questions in seconds.
+
+Blue or white? Is it a deductible expense or not?
+With each uncertainty cleared, **time to think** and **freedom** return.
+
+---
+
+## 🚀 Effects
+
+- Dramatically reduces time spent on record-keeping and expense decisions
+- Translates gray areas into “understandable language”
+- Finds tax-saving opportunities, expanding your freedom
+
+---
+
+## 📸 **Experience Overview**
 ![デモ動画](https://github.com/TomoAIDayori/-Freelance-Tax-Expense-Advisor/blob/main/English/Demo%20Movie.gif)
 
 ![青と白の納税申告比較](https://github.com/TomoAIDayori/-Freelance-Tax-Expense-Advisor/blob/main/English/blue-white-tax-filing-comparison.png)
@@ -20,156 +43,94 @@
 
 ---
 
-## 📌 Overview
+## 🛠 Simple to Use
 
-**Freelance Tax & Expense Advisor** is a ChatGPT-powered tool designed to help freelancers and sole proprietors navigate Japanese tax filing, expense tracking, and paperwork.
-
-If you’ve ever thought:
-
-- “I’m not sure if I should talk to a tax accountant…”
-- “I’m confused about which expenses are deductible…”
-- “Filing forms like business registrations feels overwhelming…”
-
-**This tool is for you.**
-
-It **simplifies tax concepts and provides practical examples** tailored specifically for freelancers and sole proprietors.
+1. Ask your question
+2. Get a clear answer
+3. Move forward without hesitation
 
 ---
 
-## ⚙️ Key Features
+## 💬 Example Usage
 
-✅ **Basic Tax Filing Guidance**
-- Explains Blue vs. White tax filings in Japan
-- Details required documents and timelines
-- Tells you where to file paperwork
+### Example Question ①:
+```
 
----
-
-✅ **Expense Judgment Support**
-- Offers examples of deductible and non-deductible expenses
-- Clarifies gray areas and risks
-- Advises on receipt management and note-taking
-
----
-
-✅ **Bookkeeping & Journal Entry Guidance**
-- Explains how to use accounting software
-- Details different bookkeeping methods
-- Provides journal entry examples
-
----
-
-✅ **Guidance on Various Filings**
-- Helps prepare business opening notifications
-- Guides completion of Blue Tax Return applications
-- Shares tax office addresses and deadlines
-
----
-
-✅ **Tax-Saving Tips**
-- Explains small enterprise mutual aid plans
-- Introduces iDeCo and other savings tools
-- Recommends business bank account separation
-- Shares fundamental tax-saving strategies
-
----
-
-✅ **Templates & Checklists**
-- Expense tracking templates (Excel-style)
-- Annual tax filing schedules
-- Tax return submission checklists
-
----
-
-## 🎯 Target Users
-
-- Freelancers or sole proprietors filing taxes for the first time
-- Individuals handling bookkeeping without an accountant
-- Remote workers, creators, engineers, and other self-employed professionals
-- Anyone looking for practical tax-saving tips
-
----
-
-## 💻 Usage Examples
-
-Here’s how you might use it:
-
----
-
-### Example Question
+Can I expense the cafe costs from a meeting?
 
 ```
 
-Can I deduct the cost of a café used for a business meeting?
+#### GPT's Answer:
+> ✅ It may be eligible as a meeting expense.  
+> Keep these points in mind:  
+> - It must be an actual meeting, not individual use  
+> - Keep notes with the date, purpose, and names of attendees  
+> - Keep the receipt and write notes on the back for peace of mind
+
+---
+
+### Example Question ②:
+```
+
+Please explain the difference between blue-form and white-form tax returns.
 
 ```
 
----
+#### GPT's Answer:
+> ✅ Key differences between blue-form and white-form tax returns:
 
-### ✅ Example Answer
+| Item       | Blue-form Tax Return | White-form Tax Return |
+|------------|------------- -----------|----------------|
+| Benefits      | Up to ¥650,000 deduction, etc.   | No deductions       |
+| Bookkeeping   | Double-entry bookkeeping required         | Simplified bookkeeping allowed |
+| Loss carryforward   | Possible (for 3 years)          | Not possible           |
 
-> Yes, it’s potentially deductible as a “meeting expense.” However:
-> - You must actually be meeting someone (not working alone)
-> - Record the date, purpose, and names of people present
-> - Keep the receipt and note these details on the back
-
----
-
-### Another Example Question
-
-```
-
-What’s the difference between Blue and White tax filings in Japan?
-
-```
+> Blue-form filing requires a bit more effort but is characterized by **significant tax savings**.
 
 ---
 
-### ✅ Example Answer
+## 🛠 Technical Points
 
-> **Main differences between Blue and White tax filings:**
->
-> | Item | Blue Tax Filing | White Tax Filing |
-> |------|-----------------|------------------|
-> | Benefits | Up to ¥650,000 deduction | No special deduction |
-> | Bookkeeping | Double-entry required | Simple records OK |
-> | Loss carryforward | Allowed (3 years) | Not allowed |
->
-> Blue filings take more effort but offer significant tax savings.
+- **Prompt Optimization Design**  
+　Automatically rephrases tax terminology for beginner-friendly understanding  
+　→ Supports diverse formats like tables, checklists, and examples
 
----
+- **Legal Risk Mitigation**  
+  Clearly states: “Consult a tax accountant or tax office for final decisions”  
+  → Explicitly blocks risks of GPT-generated misunderstandings
 
-## 🛠 Technical Highlights
+- **User Experience-Focused Design**  
+  Answers are concise and easy to understand. Can delve into details as needed
 
-- **Custom Prompt Engineering**
-  - Breaks complex tax topics into easy language
-  - Supports outputs like examples, tables, and bullet lists
+  ## ⚠️ Disclaimer  
 
-- **Legal & Safety Considerations**
-  - Always includes disclaimers to consult professionals
-  - Warns users about tax law changes each fiscal year
-
-- **User-Friendly UX**
-  - Gives concise, clear answers
-  - Provides deeper details if users want more information
+- This tool provides AI-based support and is not a certified public accountant or administrative scrivener.  
+- The information provided is for reference only; final decisions are the sole responsibility of the user.  
+- Laws and regulations may change annually.  
 
 ---
 
-## ⚠️ Disclaimer
+## 🛒 Use Now
 
-- This tool is **not** a licensed tax accountant or lawyer.
-- Information is for reference only. Always consult professionals for final decisions.
-- Tax laws and rules change yearly.
+This project is currently available for purchase on Coconala.  
+For AI prompt design, customization, or implementation support, please inquire via the link below.
 
+### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)
+
+AI Question Template Collection (Optional)
+
+#### 👉 [View the Optional Sales Page](https://coconala.com/services/3872444)
 
 ---
 
-## 👨‍💻 My Role
+## 👨‍💻 Developer
 
-I designed and developed:
-- Prompt engineering specialized for Japanese tax concepts
-- UX design for smooth conversations
-- Templates and checklists for practical use
+For this project, I handled all of the following:
+
+- Designing GPT prompts compliant with Japan's tax system
+- Creating intuitive dialogue design (UX) to prevent user confusion
+- Building expense management templates and checklists
+- Optimizing safety measures, precautions, and expression adjustments
 
 ---
 
@@ -179,8 +140,18 @@ MIT License
 
 ---
 
-> **“Save on taxes and avoid mistakes. Get your tax questions answered on the spot.”**
+## 🧑‍💻 Author
 
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+→ Also features my portfolio and other AI tool developments.
+
+## Feel Free to Contact Us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
 
 
 ---
+
+## 🏁 Final Thoughts
+
+> Don't let receipts steal your time.
+> Create your future.
