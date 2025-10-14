@@ -8,6 +8,7 @@
  <img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー" src="https://github.com/user-attachments/assets/4b2d00b0-0eab-4837-a2fc-c7ec92ccfc35" />
 
 </p>
+<img width="1280" height="720" alt="フリーランス" src="https://github.com/user-attachments/assets/a32de5a4-d0dc-4f3c-a3f4-13c28ab3c31c" />
 
 
 
@@ -29,7 +30,7 @@
 ## プロジェクト概要
 #### [スライド資料はこちら](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/blob/main/%E8%B3%87%E6%96%99/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%83%BB%E7%B5%8C%E8%B2%BB%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pptx.pdf)
 
-#### [動画資料はこちら](https://youtu.be/1N7R9RuY7Vg)
+[![ChatGPTで確定申告をラクに！フリーランス必見のAI活用法](https://github.com/user-attachments/assets/a32de5a4-d0dc-4f3c-a3f4-13c28ab3c31c)](https://youtu.be/1N7R9RuY7Vg?si=USeS5Rt9ff1usm26)
 
 ---
 
