@@ -1,13 +1,12 @@
-<p align="center">
-<img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー" src="https://github.com/user-attachments/assets/42be2538-f9f6-4c31-a70b-3573ced6673a" />
-
-</p>
-
 # ✅ Freelance Tax Filing & Expense Advisor
 
 > Don't dread tax season.
 > Don't get bogged down by receipts.
 > Face the future head-on.
+
+<p align="center">
+<img width="1536" height="1024" alt="フリーランス (2)" src="https://github.com/user-attachments/assets/db92d952-fff4-40ef-b8c4-9eadeab37728" />
+</p>
 
 ---
 
