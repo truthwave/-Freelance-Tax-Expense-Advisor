@@ -5,7 +5,7 @@
 > 向き合うべきは、未来だ。
 
 <p align="center">
- <img width="1536" height="1024" alt="「フリーランス確定申告・経費アドバイザー" src="https://github.com/user-attachments/assets/4b2d00b0-0eab-4837-a2fc-c7ec92ccfc35" />
+<img width="1536" height="1024" alt="フリーランス (1)" src="https://github.com/user-attachments/assets/2fc0d8cb-319a-4cd8-860e-581f528dfb90" />
 </p>
 
 ---
