@@ -5,7 +5,7 @@
 > Face the future head-on.
 
 <p align="center">
-<img width="1536" height="1024" alt="フリーランス (2)" src="https://github.com/user-attachments/assets/db92d952-fff4-40ef-b8c4-9eadeab37728" />
+<img width="1536" height="1024" alt="フリーランス" src="https://github.com/user-attachments/assets/f423a492-b626-4957-924e-f44ee19c6d55" />
 </p>
 
 ---
