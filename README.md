@@ -5,7 +5,7 @@
 > 向き合うべきは、未来だ。
 
 <p align="center">
-<img width="1536" height="1024" alt="フリーランス (1)" src="https://github.com/user-attachments/assets/2fc0d8cb-319a-4cd8-860e-581f528dfb90" />
+<img width="1536" height="1024" alt="フリーランス" src="https://github.com/user-attachments/assets/dc007c2c-4546-428b-a4f8-c786c485e923" />
 </p>
 
 ---
