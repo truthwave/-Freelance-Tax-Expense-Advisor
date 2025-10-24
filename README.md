@@ -9,7 +9,6 @@
 </p>
 
 ---
-<img width="1280" height="720" alt="フリーランス" src="https://github.com/user-attachments/assets/83c58995-518b-452d-b0a5-8a38b1fbdb86" />
 
 ## ✨ 体験
 
