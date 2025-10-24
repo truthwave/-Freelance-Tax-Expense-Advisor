@@ -20,7 +20,6 @@
 
 青色か白色か。経費になるかならないか。
 迷いが消えるたびに、**考える時間**と**自由が**戻ってくる。
-<img width="1536" height="1024" alt="フリーランス" src="https://github.com/user-attachments/assets/ca3f17da-8f75-4436-9b00-0bdf4d149f49" />
 
 ---
 
