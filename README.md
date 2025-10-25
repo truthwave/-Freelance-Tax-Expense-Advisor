@@ -24,7 +24,6 @@
 ---
 
 ## プロジェクト概要
-<img width="1280" height="720" alt="フリーランス" src="https://github.com/user-attachments/assets/62fc4792-d49f-458c-9c5f-48b43524f24d" />
 
 [![ChatGPTで確定申告をラクに！フリーランス必見のAI活用法](https://github.com/user-attachments/assets/62fc4792-d49f-458c-9c5f-48b43524f24d)](https://youtu.be/1N7R9RuY7Vg?si=USeS5Rt9ff1usm26)
 
