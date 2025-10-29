@@ -34,6 +34,7 @@ With each uncertainty cleared, **time to think** and **freedom** return.
 ## 📸 **Experience Overview**
 ![デモ動画](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/blob/main/English/Materials/Demo%20Movie.gif)
 
+### [Screenshot](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/English/Materials/Screenshot)
 ---
 
 ## 🛠 Simple to Use
