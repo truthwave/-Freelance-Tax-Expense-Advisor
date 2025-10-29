@@ -25,6 +25,7 @@ With each uncertainty cleared, **time to think** and **freedom** return.
 
 ## Project Overview
 
+### YouTube is here
 [![Make Tax Filing Easy with ChatGPT! Must-See AI Tips for Freelancers](https://github.com/user-attachments/assets/65f6f5f8-69a4-42ad-b721-07f11ae44845)](https://youtu.be/1N7R9RuY7Vg?si=USeS5Rt9ff1usm26)
 
 #### [Slide Materials Here](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/blob/main/English/Materials/Freelance%20Tax%20Filing%20%26%20Expense%20Advisor.pdf)
