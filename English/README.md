@@ -22,7 +22,6 @@ Blue or white? Is it a deductible expense or not?
 With each uncertainty cleared, **time to think** and **freedom** return.
 
 ---
-<img width="1280" height="720" alt="フリーランス" src="https://github.com/user-attachments/assets/65f6f5f8-69a4-42ad-b721-07f11ae44845" />
 
 ## Project Overview
 
