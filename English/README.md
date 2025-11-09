@@ -121,6 +121,8 @@ For AI prompt design, customization, or implementation support, please inquire v
 
 ### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)
 
+### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nff6385369a64)
+
 AI Question Template Collection (Optional)
 
 #### 👉 [View the Optional Sales Page](https://coconala.com/services/3872444)
