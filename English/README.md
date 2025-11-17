@@ -119,9 +119,9 @@ Please explain the difference between blue-form and white-form tax returns.
 This project is currently available for purchase on Coconala.  
 For AI prompt design, customization, or implementation support, please inquire via the link below.
 
-### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)
-
 ### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nff6385369a64)
+
+### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)
 
 AI Question Template Collection (Optional)
 
