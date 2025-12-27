@@ -114,16 +114,18 @@ Please explain the difference between blue-form and white-form tax returns.
 
 ---
 
-## 🛒 Use Now
+## Trying Out Truth Wave GPTs
 
-This project is currently available for purchase on Coconala.  
-For AI prompt design, customization, or implementation support, please inquire via the link below.
+The content written in this blog is designed to be usable as a “working GPT.”
 
-### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nff6385369a64)
+- For those who want everything organized (GPT core + optional materials)
+  This plan bundles the GPT core with optional materials like checklists and templates.
+### [→ Truth Wave GPTs Set (GPT + Optional Materials)](https://note.com/truth_wave/n/n220ba26168c3)
 
-AI Question Template Collection (Optional)
 
-#### 👉 [View the Optional Sales Page](https://coconala.com/services/3872444)
+- For those who want to try just one thing first (GPT core only)
+  This is for those who want to use only the GPT core for this specific theme, pinpointed for immediate use.
+### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/nff6385369a64)
 
 ---
 
